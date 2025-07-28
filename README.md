@@ -44,3 +44,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## IMPORTANTE
+MAPBOX PIDE TARJETA DE CREDITO PARA CONTINUAR, POR LO QUE LOS TOKENS DE LOS ARCHIVOS DE APIS
+NO SE PUEDEN CAMBIAR, ESTE PROYECTO ES SOLO CON FINES EDUCATIVOS
+
+HAY OTRAS OPCIONES COMO:
+https://maplibre.org/maplibre-gl-js/docs/API/
+https://docs.maptiler.com/sdk-js/examples/how-to-use/
