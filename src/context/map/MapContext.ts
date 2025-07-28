@@ -16,4 +16,4 @@ interface MapContextProps {
 
 
 
-export const MapContext = createContext({} as MapContextProps );
+export const MapContext = createContext({} as MapContextProps);

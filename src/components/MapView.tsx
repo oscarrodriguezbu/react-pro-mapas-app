@@ -12,32 +12,32 @@ import { Loading } from './';
 
 export const MapView = () => {
 
-    const { isLoading, userLocation } = useContext( PlacesContext );
-    const { setMap } = useContext( MapContext)
+    const { isLoading, userLocation } = useContext(PlacesContext);
+    const { setMap } = useContext(MapContext)
 
     const mapDiv = useRef<HTMLDivElement>(null);
 
     useLayoutEffect(() => {
-        if ( !isLoading ) {
+        if (!isLoading) {
             const map = new Map({
-                container: mapDiv.current! , // container ID
+                container: mapDiv.current!, // container ID
                 style: 'mapbox://styles/mapbox/light-v10', // style URL
                 center: userLocation, // starting position [lng, lat]
                 zoom: 14 // starting zoom
             });
 
-            setMap( map );
+            setMap(map);
         }
-    }, [ isLoading ])
+    }, [isLoading])
 
 
-    if ( isLoading ) {
-        return ( <Loading /> )
+    if (isLoading) {
+        return (<Loading />)
     }
 
 
     return (
-        <div ref={ mapDiv }
+        <div ref={mapDiv}
             style={{
                 height: '100vh',
                 left: 0,
@@ -46,7 +46,7 @@ export const MapView = () => {
                 width: '100vw',
             }}
         >
-            { userLocation?.join(',') }
+            {userLocation?.join(',')}
         </div>
     )
 }

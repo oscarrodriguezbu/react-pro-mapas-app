@@ -62,3 +62,4 @@ https://docs.maptiler.com/sdk-js/examples/how-to-use/
 <img width="1908" height="1003" alt="Captura de pantalla 2025-07-27 225134" src="https://github.com/user-attachments/assets/41becfca-702c-43dc-84a1-707bbadb6982" />
 <img width="1911" height="1010" alt="Captura de pantalla 2025-07-27 225116" src="https://github.com/user-attachments/assets/b67e45ba-7e14-4635-ae22-c48ec3530c36" />
 
+La sección está en el curso de Udemy de React Pro de Fernando Herrrera o en el canal de Youtube: https://www.youtube.com/watch?v=GvCUY8muozk&list=PLCKuOXG0bPi2dfwRr7m63bhj8T3OaRuw3
