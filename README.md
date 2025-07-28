@@ -53,3 +53,12 @@ NO SE PUEDEN CAMBIAR, ESTE PROYECTO ES SOLO CON FINES EDUCATIVOS
 HAY OTRAS OPCIONES COMO:
 https://maplibre.org/maplibre-gl-js/docs/API/
 https://docs.maptiler.com/sdk-js/examples/how-to-use/
+
+
+##Capturas de la app
+<img width="1919" height="1011" alt="Captura de pantalla 2025-07-27 225228" src="https://github.com/user-attachments/assets/32c0fcab-830a-4dde-9115-593400b4b7d3" />
+<img width="1914" height="1012" alt="Captura de pantalla 2025-07-27 225156" src="https://github.com/user-attachments/assets/6a290cbc-cdfc-471e-a945-c47c4cb78cc7" />
+<img width="1914" height="1011" alt="Captura de pantalla 2025-07-27 225148" src="https://github.com/user-attachments/assets/57194096-09d3-4f6a-ac8b-e69e87efc4f8" />
+<img width="1908" height="1003" alt="Captura de pantalla 2025-07-27 225134" src="https://github.com/user-attachments/assets/41becfca-702c-43dc-84a1-707bbadb6982" />
+<img width="1911" height="1010" alt="Captura de pantalla 2025-07-27 225116" src="https://github.com/user-attachments/assets/b67e45ba-7e14-4635-ae22-c48ec3530c36" />
+
